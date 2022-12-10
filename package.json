@@ -27,7 +27,7 @@
     "bootstrap": "^4.5.2",
     "cookie-parser": "^1.4.5",
     "core-js": "^2.6.11",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "morgan": "^1.10.0",
     "rxjs": "~6.2.0",
